@@ -17,4 +17,4 @@ exp = 0
 while(exp <= 15):
     pot = math.pow(contador,exp)
     print(f"3 elevado a {exp} é = {pot:.0f}")
-    exp = exp + 1
+    exp = exp + 1 
