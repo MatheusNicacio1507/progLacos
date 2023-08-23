@@ -29,3 +29,4 @@ else:
     print(f"Maior valor inserido: {menor}")
     print(f"Média dos valores inseridos = {soma / total_respostas}")
     print("FIM DO PROGRAMA")
+
